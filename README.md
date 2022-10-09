@@ -1,5 +1,12 @@
 ### Hi there 👋
+Welcome to our page !
 
+We are Students from Dongyang Mirae Univ.
+We are a QB class Team 1 with OSS class.  
+
+## 💬 Our Stats  
+
+[![QBteamOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBteamOSS)](https://github.com/QBteamOSS/github-readme-stats)
 <!--
 **QBteamOSS/QBteamOSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
