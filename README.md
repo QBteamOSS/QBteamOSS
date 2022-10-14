@@ -4,8 +4,8 @@
 
 <div style="text-align:center;">
 <p></p>
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="25px">
- Our Team <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="25px"> </h3>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px">
+ Our Team <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px"> </h3>
  
 <p align="center">
   <br> 
