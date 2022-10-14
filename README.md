@@ -5,8 +5,9 @@
 <div style="text-align:center;">
 <p></p>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px">
- Our Team <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px"> </h3>
- 
+ Our Team Organizations <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px"> </h3>
+<p></p>
+<hr>
 <p align="center">
   <br> 
   <a href="https://github.com/QB1st-team" target="_blank"><img src="https://img.shields.io/badge/QB1st_team-e7f0fd?style=for-the-badge&logo=Apostrophe&logoColor=3cba92"/></a>
