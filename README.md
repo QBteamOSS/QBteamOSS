@@ -4,24 +4,26 @@
 
 <div style="text-align:center;">
 <p></p>
-<h3 align="center"> 🌜 Where is our team? 🌛 </h3>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="25px">
+ Our Team <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="25px"> </h3>
  
 <p align="center">
-  <br>
-  <a href="https://github.com/ossQB" target="_blank"><img src="https://img.shields.io/badge/2team-5468FF?style=for-the-badge&logo=Apostrophe&logoColor=white"/></a>
+  <br> 
+  <a href="https://github.com/QB1st-team" target="_blank"><img src="https://img.shields.io/badge/QB1st_team-e7f0fd?style=for-the-badge&logo=Apostrophe&logoColor=3cba92"/></a>
 
 <div style="text-align:center;">
 <p></p>
-<h3 align="center"> 🏴 What I Study About? 🏴 </h3>
+<h3 align="center"> 🏴 Our Team Member 🏴 </h3>
  
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=f6d365"/></a>
-  <a href=https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-  <a href="https://www.java.com/ko/" target="_blank"><img src="https://img.shields.io/badge/JAVA-4facfe?style=for-the-badge&logo=Eclipse IDE&logoColor=000000"/></a>
+  <a href="https://github.com/echo2719" target="_blank"><img src="https://img.shields.io/badge/박종관-3776AB?style=for-the-badge&logo=박종관&logoColor=f6d365"/></a>
+  <a href="https://github.com/JungwooJoon" target="_blank"><img src="https://img.shields.io/badge/정우준-3776AB?style=for-the-badge&logo=정우준&logoColor=f6d365"/></a>
+  <a href="https://github.com/Knell999" target="_blank"><img src="https://img.shields.io/badge/김현종-3776AB?style=for-the-badge&logo=박종관&logoColor=f6d365"/></a>
+  <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-3776AB?style=for-the-badge&logo=구동빈&logoColor=f6d365"/></a>
+  <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-3776AB?style=for-the-badge&logo=이은준&logoColor=f6d365"/></a>
+  
 
-### Hi there 👋
+### Hi  👋
 Welcome to our page !
 
 We are Students from Dongyang Mirae Univ.
