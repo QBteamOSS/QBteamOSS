@@ -22,12 +22,7 @@
   <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-009efd?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-0ba360?style=for-the-badge&logo=Github&logoColor=white"/></a>
   
-
-### Hi  👋
-Welcome to our page !
-
-We are Students from Dongyang Mirae Univ.
-We are a QB class Team 1 with OSS class.  
+![header](https://capsule-render.vercel.app/api?type=rect&reversal=false&color=0:fbfcdb,100:e9defa&height=100&section=header&text=Dongyang%20Mirae%20University&animation=fadeIn&fontSize=50)
 
 ## 💬 Our Stats  
 
