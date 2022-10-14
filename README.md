@@ -16,11 +16,11 @@
 <h3 align="center"> 🏴 Our Team Member 🏴 </h3>
  
 <p align="center">
-  <a href="https://github.com/echo2719" target="_blank"><img src="https://img.shields.io/badge/박종관-3776AB?style=for-the-badge&logo=박종관&logoColor=f6d365"/></a>
-  <a href="https://github.com/JungwooJoon" target="_blank"><img src="https://img.shields.io/badge/정우준-3776AB?style=for-the-badge&logo=정우준&logoColor=f6d365"/></a>
-  <a href="https://github.com/Knell999" target="_blank"><img src="https://img.shields.io/badge/김현종-3776AB?style=for-the-badge&logo=박종관&logoColor=f6d365"/></a>
-  <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-3776AB?style=for-the-badge&logo=구동빈&logoColor=f6d365"/></a>
-  <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-3776AB?style=for-the-badge&logo=이은준&logoColor=f6d365"/></a>
+  <a href="https://github.com/echo2719" target="_blank"><img src="https://img.shields.io/badge/박종관-330867?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/JungwooJoon" target="_blank"><img src="https://img.shields.io/badge/정우준-764ba2?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/Knell999" target="_blank"><img src="https://img.shields.io/badge/김현종-6a11cb?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-009efd?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-0ba360?style=for-the-badge&logo=Github&logoColor=white"/></a>
   
 
 ### Hi  👋
