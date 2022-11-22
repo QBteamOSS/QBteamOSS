@@ -23,7 +23,6 @@
   <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-009efd?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-0ba360?style=for-the-badge&logo=Github&logoColor=white"/></a>
   
-![header](https://capsule-render.vercel.app/api?type=rect&reversal=false&color=0:fbfcdb,100:e9defa&height=100&section=header&text=Dongyang%20Mirae%20University&animation=fadeIn&fontSize=50)
 
  <div align="center">
 <h3 align="center"> 💬 Our Stats 💬 </h3>
@@ -31,3 +30,5 @@
 <div align="center">
  
 [![QBteamOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBteamOSS)](https://github.com/QBteamOSS/github-readme-stats)
+
+![header](https://capsule-render.vercel.app/api?type=rect&reversal=false&color=0:fbfcdb,100:e9defa&height=100&section=header&text=Dongyang%20Mirae%20University&animation=fadeIn&fontSize=50)
