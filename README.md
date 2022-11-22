@@ -1,20 +1,17 @@
+<div align="center">
+ 
 ![header](https://capsule-render.vercel.app/api?type=rect&reversal=false&color=0:e9defa,100:fbfcdb&height=300&section=header&text=QB%20team%20OSS&desc=Open%20source%20Software%20QB%201조&animation=fadeIn&descAlignY=80&fontSize=90)
 
-<!-- 뱃지 -->
 
-<div style="text-align:center;">
-<p></p>
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px">
- Our Team Project <img src="https://user-images.githubusercontent.com/114080840/195899624-f403f117-33e1-423c-b7bb-e7d3bc825437.png" width="20px"> </h3>
-
+## 🔨 Our Team Project 🔨
 <p align="center">
-  <br> 
   <a href="https://github.com/QBteamOSS/OSS_Assignments" target="_blank"><img src="https://img.shields.io/badge/OSS_Assignments-e7f0fd?style=for-the-badge&logo=Apostrophe&logoColor=3cba92"/></a>
 <p></p>
-<hr>
+
 <div style="text-align:center;">
 <p></p>
-<h3 align="center"> 🏴 Our Team Member 🏴 </h3>
+ 
+## 🏴 Our Team Member 🏴
  
 <p align="center">
   <a href="https://github.com/echo2719" target="_blank"><img src="https://img.shields.io/badge/박종관-330867?style=for-the-badge&logo=Github&logoColor=white"/></a>
@@ -23,10 +20,9 @@
   <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-009efd?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-0ba360?style=for-the-badge&logo=Github&logoColor=white"/></a>
   
-<hr>
 
- <div align="center">
-<h3 align="center"> 💬 Our Stats 💬 </h3>
+## 👥 Our Stats 👥 
+  
  
 <div align="center">
  
