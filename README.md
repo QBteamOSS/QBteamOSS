@@ -23,6 +23,7 @@
   <a href="https://github.com/9dongb" target="_blank"><img src="https://img.shields.io/badge/구동빈-009efd?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://github.com/moolgutree" target="_blank"><img src="https://img.shields.io/badge/이은준-0ba360?style=for-the-badge&logo=Github&logoColor=white"/></a>
   
+<hr>
 
  <div align="center">
 <h3 align="center"> 💬 Our Stats 💬 </h3>
