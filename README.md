@@ -25,6 +25,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rect&reversal=false&color=0:fbfcdb,100:e9defa&height=100&section=header&text=Dongyang%20Mirae%20University&animation=fadeIn&fontSize=50)
 
-## 💬 Our Stats  
-
+ <div align="center">
+<h3 align="center"> 💬 Our Stats 💬 </h3>
+ 
+<div align="center">
+ 
 [![QBteamOSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=QBteamOSS)](https://github.com/QBteamOSS/github-readme-stats)
